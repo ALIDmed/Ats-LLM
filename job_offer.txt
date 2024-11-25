@@ -1,0 +1,54 @@
+Digitaleo, C’est
+
+Une aventure (toujours) en pleine effervescence mêlant ambition, expertise, agilité et partage.
+
+Une plateforme SaaS enrichie depuis 20 ans qui permet de gérer le marketing local des réseaux de points de vente, marques, franchises et enseignes indépendantes.
+
+Huit modules : marketing direct, réseaux sociaux, visibilité locale, avis clients, print & goodies, publicités locales (Ads), Digital Asset management, store locator.
+
+Qu’est-ce qu’on te propose & pourquoi on a besoin de toi ?
+
+Nous recherchons un.e stagiaire développeur.se pour contribuer à l’enrichissement et à l’optimisation de Geppetto, notre chatbot boosté à l’ia.
+
+Tu travailleras sur l’extension de ses capacités en matière de traitement du langage naturel et d'intégration de nouvelles sources de données internes, dans le but de le transformer en véritable assistant IA polyvalent pour toute l’entreprise.
+
+Tu seras également impliqué.e dans l'intégration d'interconnexions avec des outils tels que Jira, Slack, GSheet, etc., afin de permettre une meilleure synergie entre les équipes et d'enrichir l'écosystème collaboratif de l'entreprise.
+
+Tu travailleras sur un projet à forte valeur ajoutée pour l’ensemble des services de Digitaleo dans un écosystème composé des dernières technologies disponible en matière d’IA, et tu auras la possibilité d’être moteur sur les fonctionnalités à intégrer au chat bot !
+
+Au Programme
+
+Fluidifier l'accès à notre base de connaissances en mettant en place un agent conversationnel dans Slack. Cela inclut la configuration des fonctionnalités de dialogue, la personnalisation des réponses en fonction du contexte, et l'amélioration continue des capacités conversationnelles du chatbot.
+Optimiser la pertinence, la qualité et la rapidité des réponses fournies aux utilisateurs. Cela inclut notamment : 
+l’intégration de nouvelles sources de données internes. 
+l'optimisation des prompts et des stratégies de stockage/récupération de la connaissance ainsi que le fine-tuning des modèles. 
+l’intégration de fonctionnalités d’évaluation des réponses par les utilisateurs. 
+Les Technologies Que Tu Découvriras/utiliseras
+
+IA et LLM : OpenAI API (GPT-4, Text-Embedding), modèles de traitement de langage naturel.
+Back-end : NodeJS (NestJs), LangchainJS, Typescript 
+Intégration de données : API REST, bases de données non relationnelles (MongoDB) et vectorielles (Pinecone) 
+
+Ton Profil
+
+Étudiant.e en informatique ou développement logiciel en dernière année de cycle d’ingénieur ou en Master.
+Curieux.se et motivé.e par l’IA et le traitement du langage naturel. 
+Des bases en NodeJS, TypeScript, et en intégration d’API REST seront appréciées. 
+Rigoureux.se avec une envie de travailler dans un environnement collaboratif et de contribuer à la construction d’une solution IA à haute valeur ajoutée. 
+
+En nous rejoignant, tu auras la chance d'intégrer notre équipe R&D, composée d’une vingtaine de personnes (développeurs, tech leads, UX designers, Product Owners) !
+
+Ce qu'on attend de toi pour les premières semaines :
+
+J+15 : Prendre en main l’existant, te familiariser avec l'équipe, commencer à travailler sur l’intégration des nouvelles sources de données internes.
+M+1 : Intégration de nouvelles fonctionnalités dans le chatbot 
+M+2 : Identification des besoins des différents services, fine tuning des modèles. 
+
+PS : On chouchoute nos collaborateurs avec :
+
+Un onboarding bien rodé qui facilite l’intégration
+Une aide pour la mobilité douce, le métro au pied du bureau, une carte ticket resto 
+Une office manager toujours à l’écoute pour garantir un cadre de travail agréable et animer le collectif 
+2 séminaires par an, un CSE généreux et attentionné 
+
+Si l’esprit Digitaleo te plaît mais que ce n’est pas le stage de tes rêves, tu peux nous laisser ton CV ici pour plus tard.
